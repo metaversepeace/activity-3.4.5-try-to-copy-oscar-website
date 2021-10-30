@@ -1,0 +1,11 @@
+body {border:
+        1px solid black;
+    }
+
+header {
+    display: flex;
+}
+
+section {
+    padding-left: 10em;
+}
